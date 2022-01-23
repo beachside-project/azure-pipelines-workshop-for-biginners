@@ -14,7 +14,7 @@
 <br>
 
 
-[戻る](./2_azure-pipelines-fundamental.md) | [次へ: 実践的な CI/CD パイプラインの作成](./4_create-cicd-pipeline.md)
+[戻る](./2_azure-pipelines-fundamental.md) | [次へ: 4. 実践的な CI/CD パイプラインの作成](./4_create-cicd-pipeline.md)
 
 ---
 

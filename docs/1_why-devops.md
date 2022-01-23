@@ -1,4 +1,4 @@
-# なぜ Azure Pipelines による CI/CD か
+# 1. なぜ Azure Pipelines による CI/CD か
 
 ## DevOps とパイプラインによる自動化の意義
 
@@ -42,7 +42,7 @@ Azure pipelines を使った自動化は、
 
 <br>
 
-[次へ: Azure Pipelines で最初に知っておきたいこと](./2_azure-pipelines-fundamental.md)
+[次へ: 2. Azure Pipelines で最初に知っておきたいこと](./2_azure-pipelines-fundamental.md)
 
 ---
 

@@ -1,4 +1,4 @@
-# Azure Pipelines で最初に知っておきたいこと
+# 2. Azure Pipelines で最初に知っておきたいこと
 
 今回のワークショップを実施する上で知っておきたいコンセプトを説明します。
 
@@ -173,7 +173,7 @@ task (タスク) は、特定の目的に合わせて作られた script のパ�
 
 <br>
 
-[戻る](./1_why-devops.md) | [次へ: はじめてのパイプライン作成](./3_create-pipeline.md)
+[戻る](./1_why-devops.md) | [次へ: 3. はじめてのパイプライン作成](./3_create-pipeline.md)
 
 ---
 
