@@ -23,6 +23,7 @@
 ワークショップは以下の構成になっています。
 
 |目次|概要|
+|----|----|
 | [1. なぜ Azure Pipelines による CI/CD か](./docs/1_why-devops.md) | DevOps や Azure Pipelines による自動化の意義について考えます。 |
 | [2. Azure Pipelines で最初に知っておきたいこと](./docs/2_azure-pipelines-fundamental.md) | Azure Pipelines で使う YAML のシンタックスの基礎を学びます。|
 | [3. はじめてのパイプライン作成](./docs/3_create-pipeline.md) | Azure DevOps で実際にパイプラインを作成し、基本的な動作や同作人方法を学びます。|
