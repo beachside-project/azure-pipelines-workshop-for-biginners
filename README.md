@@ -11,14 +11,16 @@
   - Azure Functions へのデプロイ (Node, .NET, Python)
   - Azure Web Apps へのデプロイ (JS)
 
-## 事前準備
+## ⚡ 事前準備
 
 このワークショップをはじめるには、以下の準備が必要です。ご不明な場合は、トレーナーにご確認ください。
 
 - Azure DevOps と Admin 権限のあるユーザー
 - デプロイする Azure のリソースの Contributor 以上の権限
 
-## ⚡ チュートリアルをはじめる
+## ⚡ ワークショップを開始しましょう
+
+ワークショップは以下の構成になっています。
 
 |目次|概要|
 | [1. なぜ Azure Pipelines による CI/CD か](./docs/1_why-devops.md) | DevOps や Azure Pipelines による自動化の意義について考えます。 |
@@ -28,6 +30,6 @@
 
 <br>
 
-以下のリンクからワークショップを開始しましょう。
+**以下のリンクからワークショップを開始しましょう。**
 
 [次へ: なぜ Azure Pipelines による CI/CD か](./docs/1_why-devops.md)
