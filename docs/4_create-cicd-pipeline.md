@@ -1,15 +1,17 @@
-# 実践的な CI/CD パイプラインの作成
+# 4. 実践的な CI/CD パイプラインの作成
 
-このモジュールでは、Azure Functions のプロジェクトをビルドし、Azure へデプロイするパイプラインについて説明します。
+トレーナーの指示に従い、皆さんで Azure Pipelines を実際に操作していきます。
 
-詳細は、トレーナーの画面にて解説します。
+このモジュールでは実践の第一歩として Azure Functions のプロジェクトをビルドし、Azure へデプロイするパイプラインについて学びます。
 
 ここで学ぶことは主に以下です。
 
 - ビルド ～ 成果物のアップロード
-- 成果物のダウンロード
-- Azure Functions へのデプロイ (Node, .NET, Python)
-- Azure Web Apps へのデプロイ (Angular)
+- 成果物のダウンロードとデプロイ
+  - Azure Functions へのデプロイ (Node)
+  - Azure Functions へのデプロイ (.NET)
+  - Azure Functions へのデプロイ (Python)
+  - Azure Web Apps へのデプロイ
 - (オプション) Environments と承認
 - (オプション) Matrix
 
