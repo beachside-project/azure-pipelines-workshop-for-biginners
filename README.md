@@ -33,4 +33,4 @@
 
 **以下のリンクからワークショップを開始しましょう。**
 
-[次へ: なぜ Azure Pipelines による CI/CD か](./docs/1_why-devops.md)
+- **[1. なぜ Azure Pipelines による CI/CD か](./docs/1_why-devops.md)**
