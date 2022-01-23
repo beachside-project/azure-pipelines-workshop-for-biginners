@@ -17,8 +17,8 @@
 
 <br>
 
-[戻る](./3_create-pipeline.md)
-
 ---
+
+[戻る](./3_create-pipeline.md)
 
 [README へ戻る](../README.md)

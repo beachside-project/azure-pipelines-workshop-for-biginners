@@ -1,6 +1,6 @@
 # 1. なぜ Azure Pipelines による CI/CD か
 
-## DevOps とパイプラインによる自動化の意義
+## ⚡ DevOps とパイプラインによる自動化の意義
 
 ここでは、なぜ DevOps や Azure pipelines での自動化に取り組むのかを改めて見つめなおして、その価値を再確認します。
 
@@ -22,7 +22,7 @@
 | Time to Restore Service | 本番環境でインシデントが起きた際に、復旧できるまでの時間です。|
 
 
-## Azure Pipelines での自動化
+## ⚡ Azure Pipelines での自動化
 
 Azure pipelines を使った自動化は、
 
@@ -34,16 +34,16 @@ Azure pipelines を使った自動化は、
 などが考えられますが、今回のワークショップではビルド、テスト、そしてデプロイの自動化にフォーカスします。
 
 
-## Congraturations 🎉
+## 🎉 Congraturations
 
-お疲れ様でした。このモジュールでは、なぜ DevOps、そしてパイプラインを使うかの意義を確認しました。
+お疲れ様でした🎉。このモジュールでは、なぜ DevOps、そしてパイプラインを使うかの意義を確認しました。
 
 次のモジュールでは、Azure Pipelines の基本的な構造やシンタックスについて説明します。
 
 <br>
 
-[次へ: 2. Azure Pipelines で最初に知っておきたいこと](./2_azure-pipelines-fundamental.md)
-
 ---
+
+[次へ: 2. Azure Pipelines で最初に知っておきたいこと](./2_azure-pipelines-fundamental.md)
 
 [README へ戻る](../README.md)
