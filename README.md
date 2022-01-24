@@ -6,10 +6,15 @@
 
 ワークショップを通して以下を理解・習得することをゴールとしています。
 
-- Azure Pipelines の基礎の理解
-- Azure Repos のコードの変更に応じて Azure Pipelines を起動し、Azure のリソースへのデプロイ
-  - Azure Functions へのデプロイ (Node, .NET, Python)
-  - Azure Web Apps へのデプロイ (JS)
+- CI/CD を導入すべき理由
+- Azure Pipelines の基礎
+- Azure Pipelines の作成・実行とログの確認方法
+- CI/CD で Azure のリソースへのデプロイ
+  - Azure Functions へのデプロイ
+    - Node
+    - Python
+    - .NET
+  - Azure Web Apps へのデプロイ (Angular)
 
 ## ⚡ 事前準備
 
